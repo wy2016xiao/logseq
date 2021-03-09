@@ -182,7 +182,11 @@ title: tree
 
 - a ?? b 等同于a ? a : b
 ### <
-## 
+##
+:PROPERTIES:
+:id: 604740bc-9f46-4dfe-981a-2b136acaadfd
+:END:
 #+BEGIN_NOTE
 11111
 #+END_NOTE
+## ((604740bc-9f46-4dfe-981a-2b136acaadfd))
